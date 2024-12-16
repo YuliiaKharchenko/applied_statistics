@@ -2,7 +2,7 @@
 
 <img src="./img/stats.png" alt="Applied Statistics" width="800" height="550">
 
-This repository contains all my work on the **Applied Statistics** module of the [ATU](https://www.atu.ie/) **Higher Diploma in Science in Computing in Data Analytics** course. The repository includes a series of module tasks as well as project implementations. The description of the **tasks** and the **project** are provided [here](https://github.com/ianmcloughlin/2425_applied_statistics?tab=readme-ov-file#tasks-40).
+This repository contains all my work on the **Applied Statistics** module of the [ATU](https://www.atu.ie/) **Higher Diploma in Science in Computing in Data Analytics** course. The repository includes a series of module tasks as well as project implementations. The descriptions of the **tasks** and the **project** are provided [here](https://github.com/ianmcloughlin/2425_applied_statistics?tab=readme-ov-file#tasks-40).
 
 ***
 
